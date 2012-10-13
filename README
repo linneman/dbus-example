@@ -1,0 +1,15 @@
+This sample code illustrates how to get DBUS communication up and running by providing a
+minimalistic client server application based on the Gnome Library (Glib). Futhermore the
+automatic start of the server by the dbus daemon is implemented.
+
+This source code is based on instructions from Raphaël Slinckx who wrote the "DBUS
+activation tutorial" (http://raphael.slinckx.net/blog/documents/dbus-tutorial). I would
+like to thank Mr. Slinckx for providing this very helpful instructions.
+
+A dense introduction about the methodology behind GLib is provided by the
+"The Official GNOME 2 Developer's Guide" by Matthias Warkus. A pdf version of this text
+can be obtained at http://www.dgsiegel.net/files/tog2dg.pdf.
+
+October 2012,
+Otto Linnemann
+
